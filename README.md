@@ -23,3 +23,6 @@ A game where you need to beat your highscore from last time and you need to shoo
 - [Unity](https://unity.com/) — game engine
 - C# — scripting language
 - Using brackeyes art assets
+
+## OBS
+This was created when chatgpt was relatively new so not a sinle line is written with the help of LLM!
