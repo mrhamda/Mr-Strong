@@ -22,9 +22,4 @@ A game where you need to beat your highscore from last time and you need to shoo
 
 ---
 
-## Built With
-
-- [Unity](https://unity.com/)
-- Published via [itch.io](https://itch.io/)
-
 ---
